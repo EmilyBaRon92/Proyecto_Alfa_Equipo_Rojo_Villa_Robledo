@@ -1,2 +1,2 @@
-# Proyecto_Alfa_Equipo_Rojo_Villa_Robledo
+# Proyecto_Alfa_Equipo_Naranja_Villa_Robledo
 Repositorio para proyectos de programación
